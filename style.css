@@ -1,0 +1,32 @@
+<style>
+body{
+  background:#c0c0c0;
+}
+
+#wrapper{
+  width: 900px;
+  margin: 0 auto;
+}
+#header{
+  position:relative;
+  height: 50px;
+  width: 696px;
+  background-color: #ffffff;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+h1{
+  margin: 0 auto;
+  color:#464451;
+}
+#content{ 
+  margin-bottom: 5px; 
+  width: 676px; 
+  padding: 10px; 
+  background: #ffffff; 
+  border-radius: 5px;
+  box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+.clear{
+  clear: both;
